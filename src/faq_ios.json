@@ -2,73 +2,73 @@
   {
     "en": {
       "title": "What is StarBase Wallet?",
-      "markdown": "faq/ios/en/what-is-StarBase-wallet.md"
+      "markdown": "faq/ios/en/what-is-starbase-wallet.md"
     },
     "ru": {
       "title": "Что такое StarBase кошелек?",
-      "markdown": "faq/ios/ru/what-is-StarBase-wallet.md"
+      "markdown": "faq/ios/ru/what-is-starbase-wallet.md"
     },
     "de": {
       "title": "Was ist StarBase Wallet?",
-      "markdown": "faq/ios/de/what-is-StarBase-wallet.md"
+      "markdown": "faq/ios/de/what-is-starbase-wallet.md"
     },
     "es": {
       "title": "¿Qué es StarBase Wallet?",
-      "markdown": "faq/ios/es/what-is-StarBase-wallet.md"
+      "markdown": "faq/ios/es/what-is-starbase-wallet.md"
     },
     "fr": {
       "title": "Qu'est-ce que le portefeuille StarBase ?",
-      "markdown": "faq/ios/fr/what-is-StarBase-wallet.md"
+      "markdown": "faq/ios/fr/what-is-starbase-wallet.md"
     },
     "tr": {
       "title": "StarBase Wallet nedir?",
-      "markdown": "faq/ios/tr/what-is-StarBase-wallet.md"
+      "markdown": "faq/ios/tr/what-is-starbase-wallet.md"
     },
     "zh": {
       "title": "What is StarBase Wallet?",
-      "markdown": "faq/ios/zh/what-is-StarBase-wallet.md"
+      "markdown": "faq/ios/zh/what-is-starbase-wallet.md"
     },
     "ko": {
       "title": "StarBase Wallet은 무엇인가요?",
-      "markdown": "faq/ios/ko/what-is-StarBase-wallet.md"
+      "markdown": "faq/ios/ko/what-is-starbase-wallet.md"
     },
     "fa": {
       "title": "What is StarBase Wallet?",
-      "markdown": "faq/ios/fa/what-is-StarBase-wallet.md"
+      "markdown": "faq/ios/fa/what-is-starbase-wallet.md"
     }
   },
   {
     "en": {
       "title": "Where to download StarBase Wallet?",
-      "markdown": "faq/ios/en/where-to-download-StarBase-wallet.md"
+      "markdown": "faq/ios/en/where-to-download-starbase-wallet.md"
     },
     "ru": {
       "title": "Где скачать StarBase кошелек?",
-      "markdown": "faq/ios/ru/where-to-download-StarBase-wallet.md"
+      "markdown": "faq/ios/ru/where-to-download-starbase-wallet.md"
     },
     "de": {
       "title": "Wo kann man StarBase Wallet herunterladen?",
-      "markdown": "faq/ios/de/where-to-download-StarBase-wallet.md"
+      "markdown": "faq/ios/de/where-to-download-starbase-wallet.md"
     },
     "es": {
       "title": "¿Dónde puedes descargar StarBase Wallet?",
-      "markdown": "faq/ios/es/where-to-download-StarBase-wallet.md"
+      "markdown": "faq/ios/es/where-to-download-starbase-wallet.md"
     },
     "fr": {
       "title": "Où télécharger le portefeuille StarBase ?",
-      "markdown": "faq/ios/fr/where-to-download-StarBase-wallet.md"
+      "markdown": "faq/ios/fr/where-to-download-starbase-wallet.md"
     },
     "tr": {
       "title": "StarBase Wallet nereden indirilir?",
-      "markdown": "faq/ios/tr/where-to-download-StarBase-wallet.md"
+      "markdown": "faq/ios/tr/where-to-download-starbase-wallet.md"
     },
     "zh": {
       "title": "Where to download StarBase Wallet?",
-      "markdown": "faq/ios/zh/where-to-download-StarBase-wallet.md"
+      "markdown": "faq/ios/zh/where-to-download-starbase-wallet.md"
     },
     "ko": {
       "title": "StarBase Wallet은 어디에서 다운로드할 수 있나요?",
-      "markdown": "faq/ios/ko/where-to-download-StarBase-wallet.md"
+      "markdown": "faq/ios/ko/where-to-download-starbase-wallet.md"
     },
     "fa": {
       "title": "Where to download StarBase Wallet?",
@@ -78,39 +78,39 @@
   {
     "en": {
       "title": "How does StarBase Wallet work?",
-      "markdown": "faq/ios/en/how-does-StarBase-wallet-work.md"
+      "markdown": "faq/ios/en/how-does-starbase-wallet-work.md"
     },
     "ru": {
       "title": "Как работает StarBase кошелек?",
-      "markdown": "faq/ios/ru/how-does-StarBase-wallet-work.md"
+      "markdown": "faq/ios/ru/how-does-starbase-wallet-work.md"
     },
     "de": {
       "title": "Wie funktioniert StarBase Wallet?",
-      "markdown": "faq/ios/de/how-does-StarBase-wallet-work.md"
+      "markdown": "faq/ios/de/how-does-starbase-wallet-work.md"
     },
     "es": {
       "title": "¿Cómo funciona la StarBase Wallet?",
-      "markdown": "faq/ios/es/how-does-StarBase-wallet-work.md"
+      "markdown": "faq/ios/es/how-does-starbase-wallet-work.md"
     },
     "fr": {
       "title": "Comment fonctionne le portefeuille StarBase?",
-      "markdown": "faq/ios/fr/how-does-StarBase-wallet-work.md"
+      "markdown": "faq/ios/fr/how-does-starbase-wallet-work.md"
     },
     "tr": {
       "title": "StarBase Wallet nasıl çalışır?",
-      "markdown": "faq/ios/tr/how-does-StarBase-wallet-work.md"
+      "markdown": "faq/ios/tr/how-does-starbase-wallet-work.md"
     },
     "zh": {
       "title": "How does StarBase Wallet work?",
-      "markdown": "faq/ios/zh/how-does-StarBase-wallet-work.md"
+      "markdown": "faq/ios/zh/how-does-starbase-wallet-work.md"
     },
     "ko": {
       "title": "StarBase Wallet은 어떻게 작동하나요?",
-      "markdown": "faq/ios/ko/how-does-StarBase-wallet-work.md"
+      "markdown": "faq/ios/ko/how-does-starbase-wallet-work.md"
     },
     "fa": {
       "title": "How does StarBase Wallet work?",
-      "markdown": "faq/ios/fa/how-does-StarBase-wallet-work.md"
+      "markdown": "faq/ios/fa/how-does-starbase-wallet-work.md"
     }
   },
   {
@@ -306,39 +306,39 @@
   {
     "en": {
       "title": "Does StarBase have fees to send or receive?",
-      "markdown": "faq/ios/en/does-StarBase-have-fees-to-send-or-receive.md"
+      "markdown": "faq/ios/en/does-starbase-have-fees-to-send-or-receive.md"
     },
     "ru": {
       "title": "Берет ли StarBase плату за отправку или получение?",
-      "markdown": "faq/ios/ru/does-StarBase-have-fees-to-send-or-receive.md"
+      "markdown": "faq/ios/ru/does-starbase-have-fees-to-send-or-receive.md"
     },
     "de": {
       "title": "Hat StarBase Gebühren für das Versenden oder Empfangen?",
-      "markdown": "faq/ios/de/does-StarBase-have-fees-to-send-or-receive.md"
+      "markdown": "faq/ios/de/does-starbase-have-fees-to-send-or-receive.md"
     },
     "es": {
       "title": "¿StarBase tiene tarifas al enviar o recibir?",
-      "markdown": "faq/ios/es/does-StarBase-have-fees-to-send-or-receive.md"
+      "markdown": "faq/ios/es/does-starbase-have-fees-to-send-or-receive.md"
     },
     "fr": {
       "title": "Y a-t-il des frais pour envoyer ou recevoir avec StarBase?",
-      "markdown": "faq/ios/fr/does-StarBase-have-fees-to-send-or-receive.md"
+      "markdown": "faq/ios/fr/does-starbase-have-fees-to-send-or-receive.md"
     },
     "tr": {
       "title": "StarBase gönderme veya alma için ücret alıyor mu?",
-      "markdown": "faq/ios/tr/does-StarBase-have-fees-to-send-or-receive.md"
+      "markdown": "faq/ios/tr/does-starbase-have-fees-to-send-or-receive.md"
     },
     "zh": {
       "title": "Does StarBase have fees to send or receive?",
-      "markdown": "faq/ios/zh/does-StarBase-have-fees-to-send-or-receive.md"
+      "markdown": "faq/ios/zh/does-starbase-have-fees-to-send-or-receive.md"
     },
     "ko": {
       "title": "StarBase에는 전송 및 수령 수수료가 있나요?",
-      "markdown": "faq/ios/ko/does-StarBase-have-fees-to-send-or-receive.md"
+      "markdown": "faq/ios/ko/does-starbase-have-fees-to-send-or-receive.md"
     },
     "fa": {
       "title": "Does StarBase have fees to send or receive?",
-      "markdown": "faq/ios/fa/does-StarBase-have-fees-to-send-or-receive.md"
+      "markdown": "faq/ios/fa/does-starbase-have-fees-to-send-or-receive.md"
     }
   },
   {
@@ -496,39 +496,39 @@
   {
     "en": {
       "title": "How do I update StarBase?",
-      "markdown": "faq/ios/en/how-do-i-update-StarBase.md"
+      "markdown": "faq/ios/en/how-do-i-update-starbase.md"
     },
     "ru": {
       "title": "Как обновить StarBase?",
-      "markdown": "faq/ios/ru/how-do-i-update-StarBase.md"
+      "markdown": "faq/ios/ru/how-do-i-update-starbase.md"
     },
     "de": {
       "title": "Wie aktualisiere ich StarBase?",
-      "markdown": "faq/ios/de/how-do-i-update-StarBase.md"
+      "markdown": "faq/ios/de/how-do-i-update-starbase.md"
     },
     "es": {
       "title": " ¿Cómo actualizo StarBase?",
-      "markdown": "faq/ios/es/how-do-i-update-StarBase.md"
+      "markdown": "faq/ios/es/how-do-i-update-starbase.md"
     },
     "fr": {
       "title": "Comment puis-je actualiser StarBase?",
-      "markdown": "faq/ios/fr/how-do-i-update-StarBase.md"
+      "markdown": "faq/ios/fr/how-do-i-update-starbase.md"
     },
     "tr": {
       "title": "StarBase nasıl güncellenir?",
-      "markdown": "faq/ios/tr/how-do-i-update-StarBase.md"
+      "markdown": "faq/ios/tr/how-do-i-update-starbase.md"
     },
     "zh": {
       "title": "How do I update StarBase?",
-      "markdown": "faq/ios/zh/how-do-i-update-StarBase.md"
+      "markdown": "faq/ios/zh/how-do-i-update-starbase.md"
     },
     "ko": {
       "title": "StarBase을 업데이트하려면 어떻게 해야 하나요?",
-      "markdown": "faq/ios/ko/how-do-i-update-StarBase.md"
+      "markdown": "faq/ios/ko/how-do-i-update-starbase.md"
     },
     "fa": {
       "title": "How do I update StarBase?",
-      "markdown": "faq/ios/fa/how-do-i-update-StarBase.md"
+      "markdown": "faq/ios/fa/how-do-i-update-starbase.md"
     }
   }
 ]
