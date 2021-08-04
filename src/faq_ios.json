@@ -1,0 +1,534 @@
+[
+  {
+    "en": {
+      "title": "What is StarBase Wallet?",
+      "markdown": "faq/ios/en/what-is-StarBase-wallet.md"
+    },
+    "ru": {
+      "title": "Что такое StarBase кошелек?",
+      "markdown": "faq/ios/ru/what-is-StarBase-wallet.md"
+    },
+    "de": {
+      "title": "Was ist StarBase Wallet?",
+      "markdown": "faq/ios/de/what-is-StarBase-wallet.md"
+    },
+    "es": {
+      "title": "¿Qué es StarBase Wallet?",
+      "markdown": "faq/ios/es/what-is-StarBase-wallet.md"
+    },
+    "fr": {
+      "title": "Qu'est-ce que le portefeuille StarBase ?",
+      "markdown": "faq/ios/fr/what-is-StarBase-wallet.md"
+    },
+    "tr": {
+      "title": "StarBase Wallet nedir?",
+      "markdown": "faq/ios/tr/what-is-StarBase-wallet.md"
+    },
+    "zh": {
+      "title": "What is StarBase Wallet?",
+      "markdown": "faq/ios/zh/what-is-StarBase-wallet.md"
+    },
+    "ko": {
+      "title": "StarBase Wallet은 무엇인가요?",
+      "markdown": "faq/ios/ko/what-is-StarBase-wallet.md"
+    },
+    "fa": {
+      "title": "What is StarBase Wallet?",
+      "markdown": "faq/ios/fa/what-is-StarBase-wallet.md"
+    }
+  },
+  {
+    "en": {
+      "title": "Where to download StarBase Wallet?",
+      "markdown": "faq/ios/en/where-to-download-StarBase-wallet.md"
+    },
+    "ru": {
+      "title": "Где скачать StarBase кошелек?",
+      "markdown": "faq/ios/ru/where-to-download-StarBase-wallet.md"
+    },
+    "de": {
+      "title": "Wo kann man StarBase Wallet herunterladen?",
+      "markdown": "faq/ios/de/where-to-download-StarBase-wallet.md"
+    },
+    "es": {
+      "title": "¿Dónde puedes descargar StarBase Wallet?",
+      "markdown": "faq/ios/es/where-to-download-StarBase-wallet.md"
+    },
+    "fr": {
+      "title": "Où télécharger le portefeuille StarBase ?",
+      "markdown": "faq/ios/fr/where-to-download-StarBase-wallet.md"
+    },
+    "tr": {
+      "title": "StarBase Wallet nereden indirilir?",
+      "markdown": "faq/ios/tr/where-to-download-StarBase-wallet.md"
+    },
+    "zh": {
+      "title": "Where to download StarBase Wallet?",
+      "markdown": "faq/ios/zh/where-to-download-StarBase-wallet.md"
+    },
+    "ko": {
+      "title": "StarBase Wallet은 어디에서 다운로드할 수 있나요?",
+      "markdown": "faq/ios/ko/where-to-download-StarBase-wallet.md"
+    },
+    "fa": {
+      "title": "Where to download StarBase Wallet?",
+      "markdown": "faq/ios/fa/where-to-download-StarBase-wallet.md"
+    }
+  },
+  {
+    "en": {
+      "title": "How does StarBase Wallet work?",
+      "markdown": "faq/ios/en/how-does-StarBase-wallet-work.md"
+    },
+    "ru": {
+      "title": "Как работает StarBase кошелек?",
+      "markdown": "faq/ios/ru/how-does-StarBase-wallet-work.md"
+    },
+    "de": {
+      "title": "Wie funktioniert StarBase Wallet?",
+      "markdown": "faq/ios/de/how-does-StarBase-wallet-work.md"
+    },
+    "es": {
+      "title": "¿Cómo funciona la StarBase Wallet?",
+      "markdown": "faq/ios/es/how-does-StarBase-wallet-work.md"
+    },
+    "fr": {
+      "title": "Comment fonctionne le portefeuille StarBase?",
+      "markdown": "faq/ios/fr/how-does-StarBase-wallet-work.md"
+    },
+    "tr": {
+      "title": "StarBase Wallet nasıl çalışır?",
+      "markdown": "faq/ios/tr/how-does-StarBase-wallet-work.md"
+    },
+    "zh": {
+      "title": "How does StarBase Wallet work?",
+      "markdown": "faq/ios/zh/how-does-StarBase-wallet-work.md"
+    },
+    "ko": {
+      "title": "StarBase Wallet은 어떻게 작동하나요?",
+      "markdown": "faq/ios/ko/how-does-StarBase-wallet-work.md"
+    },
+    "fa": {
+      "title": "How does StarBase Wallet work?",
+      "markdown": "faq/ios/fa/how-does-StarBase-wallet-work.md"
+    }
+  },
+  {
+    "en": {
+      "title": "How to create a multi-coin wallet?",
+      "markdown": "faq/ios/en/how-to-create-a-multi-coin-wallet.md"
+    },
+    "ru": {
+      "title": "Как создать мультивалютный кошелек?",
+      "markdown": "faq/ios/ru/how-to-create-a-multi-coin-wallet.md"
+    },
+    "de": {
+      "title": "Wie erstellt man ein Multi-Coin-Wallet?",
+      "markdown": "faq/ios/de/how-to-create-a-multi-coin-wallet.md"
+    },
+    "es": {
+      "title": "¿Cómo crear un monedero multimoneda?",
+      "markdown": "faq/ios/es/how-to-create-a-multi-coin-wallet.md"
+    },
+    "fr": {
+      "title": "Comment créer un portefeuille multi-pièces ?",
+      "markdown": "faq/ios/fr/how-to-create-a-multi-coin-wallet.md"
+    },
+    "tr": {
+      "title": "Çoklu para cüzdanı nasıl oluşturulur?",
+      "markdown": "faq/ios/tr/how-to-create-a-multi-coin-wallet.md"
+    },
+    "zh": {
+      "title": "How to create a multi-coin wallet?",
+      "markdown": "faq/ios/zh/how-to-create-a-multi-coin-wallet.md"
+    },
+    "ko": {
+      "title": "멀티 코인 지갑을 생성하려면 어떻게 해야 하나요?",
+      "markdown": "faq/ios/ko/how-to-create-a-multi-coin-wallet.md"
+    },
+    "fa": {
+      "title": "How to create a multi-coin wallet?",
+      "markdown": "faq/ios/fa/how-to-create-a-multi-coin-wallet.md"
+    }
+  },
+  {
+    "en": {
+      "title": "How to backup your Wallet(s)?",
+      "markdown": "faq/ios/en/how-to-backup-your-wallet.md"
+    },
+    "ru": {
+      "title": "Как создать резервную копию вашего(-их) кошелька(-ов)?",
+      "markdown": "faq/ios/ru/how-to-backup-your-wallet.md"
+    },
+    "de": {
+      "title": "Wie macht man ein Backup seines Wallets?",
+      "markdown": "faq/ios/de/how-to-backup-your-wallet.md"
+    },
+    "es": {
+      "title": "¿Cómo hacer un backup de tu monedero (s)?",
+      "markdown": "faq/ios/es/how-to-backup-your-wallet.md"
+    },
+    "fr": {
+      "title": "Comment sauvegarder votre (vos) portefeuille (s)?",
+      "markdown": "faq/ios/fr/how-to-backup-your-wallet.md"
+    },
+    "tr": {
+      "title": "Cüzdan(lar)ınızı nasıl yedekleyebilirsiniz?",
+      "markdown": "faq/ios/tr/how-to-backup-your-wallet.md"
+    },
+    "zh": {
+      "title": "How to backup your Wallet(s)?",
+      "markdown": "faq/ios/zh/how-to-backup-your-wallet.md"
+    },
+    "ko": {
+      "title": "지갑을 백업하려면 어떻게 해야 하나요?",
+      "markdown": "faq/ios/ko/how-to-backup-your-wallet.md"
+    },
+    "fa": {
+      "title": "How to backup your Wallet(s)?",
+      "markdown": "faq/ios/fa/how-to-backup-your-wallet.md"
+    }
+  },
+  {
+    "en": {
+      "title": "How to protect your wallet funds",
+      "markdown": "faq/ios/en/how-to-protect-your-wallet-funds.md"
+    },
+    "ru": {
+      "title": "Как защитить средства, хранящиеся в вашем кошельке?",
+      "markdown": "faq/ios/ru/how-to-protect-your-wallet-funds.md"
+    },
+    "de": {
+      "title": "Wie schützt man die Gelder im Wallet?",
+      "markdown": "faq/ios/de/how-to-protect-your-wallet-funds.md"
+    },
+    "es": {
+      "title": "¿Cómo proteger los fondos de tu monedero?",
+      "markdown": "faq/ios/es/how-to-protect-your-wallet-funds.md"
+    },
+    "fr": {
+      "title": "Comment protéger les fonds de votre portefeuille?",
+      "markdown": "faq/ios/fr/how-to-protect-your-wallet-funds.md"
+    },
+    "tr": {
+      "title": "Cüzdan fonlarınızı nasıl koruyabilirsiniz?",
+      "markdown": "faq/ios/tr/how-to-protect-your-wallet-funds.md"
+    },
+    "zh": {
+      "title": "How to protect your wallet funds",
+      "markdown": "faq/ios/zh/how-to-protect-your-wallet-funds.md"
+    },
+    "ko": {
+      "title": "지갑 자금을 보호하려면 어떻게 해야 하나요?",
+      "markdown": "faq/ios/ko/how-to-protect-your-wallet-funds.md"
+    },
+    "fa": {
+      "title": "How to protect your wallet funds",
+      "markdown": "faq/ios/fa/backup-your-recovery-phrase-or-private-key.md"
+    }
+  },
+  {
+    "en": {
+      "title": "How do I buy cryptocurrency?",
+      "markdown": "faq/ios/en/how-do-i-buy-cryptocurrency.md"
+    },
+    "ru": {
+      "title": "Как купить криптовалюту?",
+      "markdown": "faq/ios/ru/how-do-i-buy-cryptocurrency.md"
+    },
+    "de": {
+      "title": "Wie kaufe ich Kryptowährung?",
+      "markdown": "faq/ios/de/how-do-i-buy-cryptocurrency.md"
+    },
+    "es": {
+      "title": "¿Cómo compro cripto monedas?",
+      "markdown": "faq/ios/es/how-do-i-buy-cryptocurrency.md"
+    },
+    "fr": {
+      "title": "Comment acheter de la cryptomonnaie?",
+      "markdown": "faq/ios/fr/how-do-i-buy-cryptocurrency.md"
+    },
+    "tr": {
+      "title": "Nasıl kripto para satın alabilirim?",
+      "markdown": "faq/ios/tr/how-do-i-buy-cryptocurrency.md"
+    },
+    "zh": {
+      "title": "How do I buy cryptocurrency?",
+      "markdown": "faq/ios/zh/how-do-i-buy-cryptocurrency.md"
+    },
+    "ko": {
+      "title": "암호화폐를 구매하려면 어떻게 해야 하나요?",
+      "markdown": "faq/ios/ko/how-do-i-buy-cryptocurrency.md"
+    },
+    "fa": {
+      "title": "How do I buy cryptocurrency?",
+      "markdown": "faq/ios/fa/how-do-i-buy-cryptocurrency.md"
+    }
+  },
+  {
+    "en": {
+      "title": "How to send and receive cryptocurrency?",
+      "markdown": "faq/ios/en/how-to-send-and-receive-cryptocurrency.md"
+    },
+    "ru": {
+      "title": "Как отправить и получить криптовалюту?",
+      "markdown": "faq/ios/ru/how-to-send-and-receive-cryptocurrency.md"
+    },
+    "de": {
+      "title": "Wie sendet und empfängt man Kryptowährung?",
+      "markdown": "faq/ios/de/how-to-send-and-receive-cryptocurrency.md"
+    },
+    "es": {
+      "title": "¿Cómo envío y recibo cripto monedas?",
+      "markdown": "faq/ios/es/how-to-send-and-receive-cryptocurrency.md"
+    },
+    "fr": {
+      "title": "Comment envoyer et recevoir de la cryptomonnaie?",
+      "markdown": "faq/ios/fr/how-to-send-and-receive-cryptocurrency.md"
+    },
+    "tr": {
+      "title": "Kripto para nasıl gönderilir ve alınır?",
+      "markdown": "faq/ios/tr/how-to-send-and-receive-cryptocurrency.md"
+    },
+    "zh": {
+      "title": "How to send and receive cryptocurrency?",
+      "markdown": "faq/ios/zh/how-to-send-and-receive-cryptocurrency.md"
+    },
+    "ko": {
+      "title": "암호화폐를 전송하거나 수령하려면 어떻게 해야 하나요?",
+      "markdown": "faq/ios/ko/how-to-send-and-receive-cryptocurrency.md"
+    },
+    "fa": {
+      "title": "How to send and receive cryptocurrency?",
+      "markdown": "faq/ios/fa/how-to-send-and-receive-cryptocurrency.md"
+    }
+  },
+  {
+    "en": {
+      "title": "Does StarBase have fees to send or receive?",
+      "markdown": "faq/ios/en/does-StarBase-have-fees-to-send-or-receive.md"
+    },
+    "ru": {
+      "title": "Берет ли StarBase плату за отправку или получение?",
+      "markdown": "faq/ios/ru/does-StarBase-have-fees-to-send-or-receive.md"
+    },
+    "de": {
+      "title": "Hat StarBase Gebühren für das Versenden oder Empfangen?",
+      "markdown": "faq/ios/de/does-StarBase-have-fees-to-send-or-receive.md"
+    },
+    "es": {
+      "title": "¿StarBase tiene tarifas al enviar o recibir?",
+      "markdown": "faq/ios/es/does-StarBase-have-fees-to-send-or-receive.md"
+    },
+    "fr": {
+      "title": "Y a-t-il des frais pour envoyer ou recevoir avec StarBase?",
+      "markdown": "faq/ios/fr/does-StarBase-have-fees-to-send-or-receive.md"
+    },
+    "tr": {
+      "title": "StarBase gönderme veya alma için ücret alıyor mu?",
+      "markdown": "faq/ios/tr/does-StarBase-have-fees-to-send-or-receive.md"
+    },
+    "zh": {
+      "title": "Does StarBase have fees to send or receive?",
+      "markdown": "faq/ios/zh/does-StarBase-have-fees-to-send-or-receive.md"
+    },
+    "ko": {
+      "title": "StarBase에는 전송 및 수령 수수료가 있나요?",
+      "markdown": "faq/ios/ko/does-StarBase-have-fees-to-send-or-receive.md"
+    },
+    "fa": {
+      "title": "Does StarBase have fees to send or receive?",
+      "markdown": "faq/ios/fa/does-StarBase-have-fees-to-send-or-receive.md"
+    }
+  },
+  {
+    "en": {
+      "title": "Why did my receiving address changed?",
+      "markdown": "faq/ios/en/why-did-my-receiving-address-changed.md"
+    },
+    "ru": {
+      "title": "Почему изменился мой адрес получателя?",
+      "markdown": "faq/ios/ru/why-did-my-receiving-address-changed.md"
+    },
+    "de": {
+      "title": "Warum hat sich meine Empfangsadresse geändert?",
+      "markdown": "faq/ios/de/why-did-my-receiving-address-changed.md"
+    },
+    "es": {
+      "title": " ¿Por qué mi dirección de recepción cambió?",
+      "markdown": "faq/ios/es/why-did-my-receiving-address-changed.md"
+    },
+    "fr": {
+      "title": "Pourquoi mon adresse de réception a-t-elle changé?",
+      "markdown": "faq/ios/fr/why-did-my-receiving-address-changed.md"
+    },
+    "tr": {
+      "title": "Alıcı adresim neden değişti?",
+      "markdown": "faq/ios/tr/why-did-my-receiving-address-changed.md"
+    },
+    "zh": {
+      "title": "Why did my receiving address changed?",
+      "markdown": "faq/ios/zh/why-did-my-receiving-address-changed.md"
+    },
+    "ko": {
+      "title": "왜 제 수령 주소가 변경되었나요?",
+      "markdown": "faq/ios/ko/why-did-my-receiving-address-changed.md"
+    },
+    "fa": {
+      "title": "Why did my receiving address changed?",
+      "markdown": "faq/ios/fa/why-did-my-receiving-address-changed.md"
+    }
+  },
+  {
+    "en": {
+      "title": "What are cryptocurrency transaction fees?",
+      "markdown": "faq/ios/en/what-are-cryptocurrency-transaction-fees.md"
+    },
+    "ru": {
+      "title": "Что такое ставка на осуществление транзакции в криптовалюте?",
+      "markdown": "faq/ios/ru/what-are-cryptocurrency-transaction-fees.md"
+    },
+    "de": {
+      "title": "Was sind Gebühren für Kryptowährung-Transaktionen?",
+      "markdown": "faq/ios/de/what-are-cryptocurrency-transaction-fees.md"
+    },
+    "es": {
+      "title": "¿Qué son las tarifas de transacción de cripto monedas?",
+      "markdown": "faq/ios/es/what-are-cryptocurrency-transaction-fees.md"
+    },
+    "fr": {
+      "title": "Quels sont les frais de transaction en cryptomonnaie?",
+      "markdown": "faq/ios/fr/what-are-cryptocurrency-transaction-fees.md"
+    },
+    "tr": {
+      "title": "Kripto para işlem ücretleri nedir?",
+      "markdown": "faq/ios/tr/what-are-cryptocurrency-transaction-fees.md"
+    },
+    "zh": {
+      "title": "What are cryptocurrency transaction fees?",
+      "markdown": "faq/ios/zh/what-are-cryptocurrency-transaction-fees.md"
+    },
+    "ko": {
+      "title": "암호화폐 거래 수수료란 무엇인가요?",
+      "markdown": "faq/ios/ko/what-are-cryptocurrency-transaction-fees.md"
+    },
+    "fa": {
+      "title": "What are cryptocurrency transaction fees?",
+      "markdown": "faq/ios/fa/what-are-cryptocurrency-transaction-fees.md"
+    }
+  },
+  {
+    "en": {
+      "title": "Why is my transaction \"pending\"?",
+      "markdown": "faq/ios/en/why-is-my-transaction-pending.md"
+    },
+    "ru": {
+      "title": "Почему моя транзакция находится в \"ожидании\"?",
+      "markdown": "faq/ios/ru/why-is-my-transaction-pending.md"
+    },
+    "de": {
+      "title": "Warum ist meine Transaktion \"ausstehend\"?",
+      "markdown": "faq/ios/de/why-is-my-transaction-pending.md"
+    },
+    "es": {
+      "title": "¿Por qué mi transacción está \"pendiente\"?",
+      "markdown": "faq/ios/es/why-is-my-transaction-pending.md"
+    },
+    "fr": {
+      "title": "Pourquoi ma transaction est-elle \"en attente\" ?",
+      "markdown": "faq/ios/fr/why-is-my-transaction-pending.md"
+    },
+    "tr": {
+      "title": "İşlemim neden \"beklemede\"?",
+      "markdown": "faq/ios/tr/why-is-my-transaction-pending.md"
+    },
+    "zh": {
+      "title": "Why is my transaction \"pending\"?",
+      "markdown": "faq/ios/zh/why-is-my-transaction-pending.md"
+    },
+    "ko": {
+      "title": "왜 제 거래 상태가 \"보류 중\"으로 표시되나요?",
+      "markdown": "faq/ios/ko/why-is-my-transaction-pending.md"
+    },
+    "fa": {
+      "title": "Why is my transaction \"pending\"?",
+      "markdown": "faq/ios/fa/why-is-my-transaction-pending.md"
+    }
+  },
+  {
+    "en": {
+      "title": "How to add or remove a coin?",
+      "markdown": "faq/ios/en/how-to-add-or-remove-a-coin.md"
+    },
+    "ru": {
+      "title": "Как добавить или удалить криптовалюту?",
+      "markdown": "faq/ios/ru/how-to-add-or-remove-a-coin.md"
+    },
+    "de": {
+      "title": "Wie fügt man oder entfernt man ein Coin?",
+      "markdown": "faq/ios/de/how-to-add-or-remove-a-coin.md"
+    },
+    "es": {
+      "title": "¿Cómo sumar o remover una moneda?",
+      "markdown": "faq/ios/es/how-to-add-or-remove-a-coin.md"
+    },
+    "fr": {
+      "title": "Comment ajouter ou supprimer une pièce?",
+      "markdown": "faq/ios/fr/how-to-add-or-remove-a-coin.md"
+    },
+    "tr": {
+      "title": "Bir para nasıl eklenir veya çıkarılır?",
+      "markdown": "faq/ios/tr/how-to-add-or-remove-a-coin.md"
+    },
+    "zh": {
+      "title": "How to add or remove a coin?",
+      "markdown": "faq/ios/zh/how-to-add-or-remove-a-coin.md"
+    },
+    "ko": {
+      "title": "코인을 추가하거나 제거하려면 어떻게 해야 하나요?",
+      "markdown": "faq/ios/ko/how-to-add-or-remove-a-coin.md"
+    },
+    "fa": {
+      "title": "How to add or remove a coin?",
+      "markdown": "faq/ios/fa/how-to-add-or-remove-a-coin.md"
+    }
+  },
+  {
+    "en": {
+      "title": "How do I update StarBase?",
+      "markdown": "faq/ios/en/how-do-i-update-StarBase.md"
+    },
+    "ru": {
+      "title": "Как обновить StarBase?",
+      "markdown": "faq/ios/ru/how-do-i-update-StarBase.md"
+    },
+    "de": {
+      "title": "Wie aktualisiere ich StarBase?",
+      "markdown": "faq/ios/de/how-do-i-update-StarBase.md"
+    },
+    "es": {
+      "title": " ¿Cómo actualizo StarBase?",
+      "markdown": "faq/ios/es/how-do-i-update-StarBase.md"
+    },
+    "fr": {
+      "title": "Comment puis-je actualiser StarBase?",
+      "markdown": "faq/ios/fr/how-do-i-update-StarBase.md"
+    },
+    "tr": {
+      "title": "StarBase nasıl güncellenir?",
+      "markdown": "faq/ios/tr/how-do-i-update-StarBase.md"
+    },
+    "zh": {
+      "title": "How do I update StarBase?",
+      "markdown": "faq/ios/zh/how-do-i-update-StarBase.md"
+    },
+    "ko": {
+      "title": "StarBase을 업데이트하려면 어떻게 해야 하나요?",
+      "markdown": "faq/ios/ko/how-do-i-update-StarBase.md"
+    },
+    "fa": {
+      "title": "How do I update StarBase?",
+      "markdown": "faq/ios/fa/how-do-i-update-StarBase.md"
+    }
+  }
+]

@@ -1,0 +1,125 @@
+@import "../../scss/utils";
+
+.Page {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.Page-dark {
+  background: $darkest;
+}
+
+.Page-black {
+  background: #000000;
+}
+
+.Page-rtl {
+  text-align: right;
+
+  @include sm {
+    text-align: left;
+  }
+}
+
+.Page-content {
+  display: flex;
+
+  @include sm {
+    flex-direction: column;
+  }
+}
+
+.Page-content--rtl {
+  flex-direction: row-reverse;
+
+  @include sm {
+    flex-direction: column;
+  }
+}
+
+.Page-start, .Page-end {
+  max-width: 50%;
+  position: relative;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  @include sm {
+    max-width: 100%;
+  }
+}
+
+.Page-end {
+  @include md {
+    padding: 40px 0;
+  }
+
+  @include xxl {
+    padding: 54px 0;
+  }
+}
+
+.Page-start {
+  @include sm {
+    padding-top: 60px;
+  }
+}
+
+.Page-start--rtl {
+  align-items: flex-end;
+}
+
+.Page-img {
+  width: 80%;
+  object-fit: contain;
+
+  @include sm {
+    width: 100%;
+  }
+}
+
+.Page-title {
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 38px;
+  padding-bottom: 20px;
+
+  @include sm {
+    margin-top: 55px;
+  }
+
+  @include md {
+    font-size: 48px;
+    line-height: 65px;
+    padding-bottom: 36px;
+  }
+
+  @include xxl {
+    font-size: 64px;
+    line-height: 87px;
+    padding-bottom: 48px;
+  }
+}
+
+.Page-info {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  padding-bottom: 36px;
+  color: $grey;
+
+  @include md {
+    font-size: 22px;
+    line-height: 30px;
+    padding-bottom: 104px;
+  }
+
+  @include xxl {
+    font-size: 32px;
+    line-height: 44px;
+    padding-bottom: 113px;
+  }
+}

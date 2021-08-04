@@ -1,0 +1,180 @@
+@import "../../scss/utils";
+
+.Wallet {
+}
+
+.Section-head {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-content: center;
+  padding-top: 60px;
+
+  @include md {
+    padding-top: 120px;
+  }
+
+  @include lg {
+    padding-top: 160px;
+  }
+}
+
+.Section-icon,
+.Section-text,
+.Section-info {
+  width: 70%;
+  display: flex;
+  box-sizing: border-box;
+  position: relative;
+  align-items: center;
+  align-self: center;
+  justify-content: center;
+  text-align: center;
+
+  @include sm {
+    width: 100%;
+  }
+}
+
+.Section-icon {
+  padding-bottom: 22px;
+
+  @include sm {
+    width: 100%;
+  }
+
+  @include lg {
+    padding-bottom: 28px;
+  }
+}
+
+.Section-text {
+  font-size: 28px;
+  line-height: 39px;
+  font-weight: 400;
+  color: #FFFFFF;
+  padding-bottom: 20px;
+
+  @include md {
+    font-size: 48px;
+    line-height: 66px;
+    padding-bottom: 36px;
+  }
+
+  @include xxl {
+    font-size: 64px;
+    line-height: 87.17px;
+    padding-bottom: 48px;
+  }
+}
+
+.Section-info {
+  font-size: 18px;
+  line-height: 25px;
+  font-weight: 400;
+  color: $grey;
+  padding-bottom: 20px;
+
+  @include md {
+    font-size: 22px;
+    line-height: 30px;
+    padding-bottom: 48px;
+  }
+
+  @include xxl {
+    font-size: 29px;
+    line-height: 40px;
+    padding-bottom: 60px;
+  }
+}
+
+.Section-products {
+  display: flex;
+  width: 100%;
+
+  @include sm {
+    flex-direction: column;
+
+    .Card {
+      margin: 15px 0;
+    }
+  }
+}
+
+.Section-image {
+  position: relative;
+  width: 100%;
+
+  @include sm {
+    height: 350px;
+    padding: 0;
+  }
+}
+
+.Section-image-info {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-content: center;
+  padding-top: 40px;
+
+  @include md {
+    padding-top: 60px;
+  }
+
+  @include lg {
+    padding-top: 80px;
+  }
+}
+
+.Section-image-big {
+  @include sm {
+    height: 545px;
+  }
+}
+
+.Wallet-screen {
+  width: 100%;
+
+  @include sm {
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+.Wallet-purpose {
+  padding-top: 60px;
+
+  @include md {
+    padding-top: 80px;
+  }
+}
+
+.Wallet-download {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 430px;
+
+  @include md {
+    height: 386px;
+  }
+
+  @include xxl {
+    height: 460px;
+  }
+}
+
+.Section-download {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+
+  @include sm {
+    flex-direction: column;
+  }
+}
+
+.Section-Download-text {
+  align-items: center;
+}
