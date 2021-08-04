@@ -4,4 +4,3 @@
 
 응용 프로그램 다운로드 링크:
 
-[**App Store**](https://apps.apple.com/app/bank-bitcoin-wallet/id1447619907)
