@@ -2,7 +2,7 @@
 
 ### 1 단계 - 휴대폰 및 앱 보안을 활성화하기
 
-StarBase Wallet의 정식 버전만 사용해야 합니다. 다음 공식 웹사이트 링크를 통해서 앱을 다운로드하세요: [www.deploystarship.com](http://www.deploystarship.com)보안 업데이트와 성능 최적화를 위해 가장 최신 버전 사용을 권장합니다.
+StarBase Wallet의 정식 버전만 사용해야 합니다. 다음 공식 웹사이트 링크를 통해서 앱을 다운로드하세요: [www.deployStarBase.com](http://www.deployStarBase.com)보안 업데이트와 성능 최적화를 위해 가장 최신 버전 사용을 권장합니다.
 
 루팅된 기기에 StarBase Wallet을 설치하지 마세요. 기기가 말웨어에 감염되지 않도록 악성 앱은 다운로드하지 말아야 합니다. 기기에 최신 업데이트와 보안 패치를 적용하고, 휴대폰 잠금 설정을 하거나 사용하지 않을 때 자동으로 잠기도록 설정하세요.
 

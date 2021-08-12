@@ -2,7 +2,7 @@
 
 ### Adım 1 - Telefon ve Uygulama Güvenliğini Etkinleştirin
 
-StarBase Wallet’in sadece orijinal sürümünü kullanın. Uygulamayı yalnızca web sitemizde verilen linklerden indirin: [www.deploystarship.com](http://www.deploystarship.com). En son sürümün yüklenmesi aynı zamanda güvenlik düzeltmeleri ve optimize edilmiş performans sağlar.
+StarBase Wallet’in sadece orijinal sürümünü kullanın. Uygulamayı yalnızca web sitemizde verilen linklerden indirin: [www.deployStarBase.com](http://www.deployStarBase.com). En son sürümün yüklenmesi aynı zamanda güvenlik düzeltmeleri ve optimize edilmiş performans sağlar.
 
 StarBase Wallet’i asla root atılmış bir cihaza yüklemeyin. Cihazınızı kötü amaçlı yazılımlardan uzak tutun, kötü amaçlı uygulamalar indirmeyin. Cihazınız için her zaman en son güncellemeleri ve güvenlik yamalarını edinin. **Telefonunuzu kilitleyin veya kullanılmadığında kendini otomatik olarak kilitleyecek şekilde ayarlayın.**
 

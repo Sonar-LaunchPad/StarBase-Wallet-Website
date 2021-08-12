@@ -2,7 +2,7 @@
 
 ### Step 1 - Enable Phone and App Security
 
-Use only the authentic version of StarBase Wallet. Download the App exclusively from the links provided on our website: [www.deploystarship.com](http://www.deploystarship.com) Installing the most recent version also provides security fixes and optimized performance.
+Use only the authentic version of StarBase Wallet. Download the App exclusively from the links provided on our website: [www.deployStarBase.com](http://www.deployStarBase.com) Installing the most recent version also provides security fixes and optimized performance.
 
 Never install StarBase Wallet onto a rooted device. Keep your device free of any malware, do not download malicious apps. Always get the most recent updates and security patches for your device. **Lock your phone, or set it to automatically lock itself when not in use.**
 

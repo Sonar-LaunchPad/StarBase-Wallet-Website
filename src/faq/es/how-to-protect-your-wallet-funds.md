@@ -2,7 +2,7 @@
 
 ### Paso 1 - Habilitar teléfono y la seguridad de la aplicación
 
-Use únicamente una versión auténtica de StarBase Wallet. Descargue la aplicación exclusivamente a través de los links de nuestra página: [www.deploystarship.com](http://www.deploystarship.com). Instalando la versión más reciente también provee arreglos de seguridad y optimiza el rendimiento.
+Use únicamente una versión auténtica de StarBase Wallet. Descargue la aplicación exclusivamente a través de los links de nuestra página: [www.deployStarBase.com](http://www.deployStarBase.com). Instalando la versión más reciente también provee arreglos de seguridad y optimiza el rendimiento.
 
 Nunca instale StarBase Wallet en un dispositivo rooteado. Mantenga su dispositivo libre de cualquier malware, no descargue aplicaciones maliciosas. Siempre obtenga las actualizaciones recientes y los parches de seguridad de su dispositivo. **Bloquee su teléfono, o establezca el bloqueo automático cuando no se esté usando.**
 

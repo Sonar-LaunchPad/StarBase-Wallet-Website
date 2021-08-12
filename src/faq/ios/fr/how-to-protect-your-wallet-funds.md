@@ -2,7 +2,7 @@
 
 ### Étape 1 - Activer la sécurité du téléphone et des applications
 
-Utilisez uniquement la version authentique de StarBase Wallet. Téléchargez l'application exclusivement à partir des liens fournis sur notre site Web: [www.deploystarship.com](http://www.deploystarship.com). L'installation de la version la plus récente fournit également des correctifs de sécurité et des performances optimisées.
+Utilisez uniquement la version authentique de StarBase Wallet. Téléchargez l'application exclusivement à partir des liens fournis sur notre site Web: [www.deployStarBase.com](http://www.deployStarBase.com). L'installation de la version la plus récente fournit également des correctifs de sécurité et des performances optimisées.
 
 N'installez jamais le StarBase Wallet sur un appareil qui a été rooté. Maintenez votre appareil exempt de tout logiciel malveillant, ne téléchargez pas d'applications malveillantes. Effectuez toujours les mises à jour et installez les correctifs de sécurité les plus récents pour votre appareil. **Verrouillez votre téléphone ou configurez-le pour qu'il se verrouille automatiquement lorsqu'il n'est pas utilisé.**
 

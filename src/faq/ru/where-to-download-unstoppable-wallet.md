@@ -6,4 +6,4 @@
 
 [**Google Play**](https://play.google.com/store/apps/details?id=io.horizontalsystems.bankwallet)
 
-[**APK file**](https://github.com/horizontalsystems/StarBase-wallet-android/releases)
+[**APK file**](https://github.com/horizontalsystems/starbase-wallet-android/releases)
