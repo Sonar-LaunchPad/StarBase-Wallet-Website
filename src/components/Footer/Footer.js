@@ -22,7 +22,7 @@ class Footer extends React.Component {
           <div className="Footer-top">
             <div className="Footer-nav">
               <Link to="/" className="Footer-nav-item" onClick={this.onClickHome}>Home</Link>
-              <a className="Footer-nav-item" target="_blank" rel="noopener noreferrer" href="https://horizontalsystems.io">About Us</a>
+              <a className="Footer-nav-item" target="_blank" rel="noopener noreferrer" href="https://deploystarship.io">About Us</a>
               <Link to="/faq" className="Footer-nav-item">FAQ</Link>
               <a className="Footer-nav-item" target="_blank" rel="noopener noreferrer" href="https://litrex.academy">Litrex Academy</a>
 
@@ -40,7 +40,7 @@ class Footer extends React.Component {
           <hr className="Divider" />
 
           <div className="Footer-bottom">
-            <a href="https://horizontalsystems.io" target="_blank" rel="noopener noreferrer">
+            <a href="https://deploystarship.io" target="_blank" rel="noopener noreferrer">
               <Logo className="Logo" />
 
               <div className="Logo-icon">

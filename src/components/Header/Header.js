@@ -65,14 +65,14 @@ class Header extends React.Component {
     const { sticky } = this.state
     const navigation = (
       <div className="nav">
-        <a target="_blank" rel="noopener noreferrer" className="nav-item" href="https://horizontalsystems.io/">
+        <a target="_blank" rel="noopener noreferrer" className="nav-item" href="https://deploystarship.io/">
           About Us
         </a>
         <Link className="nav-item" to="/faq">FAQ</Link>
         {sticky && <Button
           className="Button-circle nav-btn-item ml-20"
           text="Google Play" icon="google-play"
-          link="https://play.google.com/store/apps/details?id=io.horizontalsystems.bankwallet" yellow newTab />}
+          link="https://play.google.com/store/apps" yellow newTab />}
         {sticky && <Button
           className="Button-circle nav-btn-item"
           text="App Store" icon="app-store"

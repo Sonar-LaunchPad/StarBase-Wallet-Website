@@ -30,7 +30,7 @@ function Banner() {
               <Button
                 className="Button-circle"
                 text="Google Play" icon="google-play"
-                link="https://play.google.com/store/apps/details?id=io.horizontalsystems.bankwallet" yellow newTab />
+                link="https://play.google.com/store/apps" yellow newTab />
               <Button
                 className="Button-circle"
                 text="App Store" icon="app-store"
@@ -38,7 +38,7 @@ function Banner() {
               <Button
                 className="Button-circle"
                 text="Download APK" icon="download"
-                link="https://github.com/horizontalsystems/bank-wallet-android/releases" newTab />
+                link="https://github.com/deploystarship/bank-wallet-android/releases" newTab />
             </List>
           </div>
         </div>

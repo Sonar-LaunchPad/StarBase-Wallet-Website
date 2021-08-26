@@ -25,7 +25,7 @@ function Join() {
             </a>
           </div>
           <div className="Join-item">
-            <a href="https://github.com/horizontalsystems/" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/deploystarship/" target="_blank" rel="noopener noreferrer">
               <img className="Join-image" src={github} alt="github" />
             </a>
           </div>
