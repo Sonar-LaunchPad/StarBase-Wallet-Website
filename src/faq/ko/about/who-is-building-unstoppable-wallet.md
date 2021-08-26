@@ -1,4 +1,4 @@
-# Who is building StarBase?
+# Who is building StarBase Wallet?
 
 StarBase started in 2021 and is being built by Starship Holdings Co.
 
