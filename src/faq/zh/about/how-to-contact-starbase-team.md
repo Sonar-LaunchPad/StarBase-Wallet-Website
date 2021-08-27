@@ -2,7 +2,7 @@
 
 To reach out please use walletsupport@deploystarship.com or one of the following channels:
 
-- Reddit: https://www.reddit.com/r/STARBASEWallet/
+- Reddit: https://www.reddit.com/r/starbaseWallet/
 - Twitter: https://twitter.com/starbasebyhs?lang=en
 - Github: https://github.com/deploystarship
 - Telegram (Channel) : https://t.me/starbase_announcements

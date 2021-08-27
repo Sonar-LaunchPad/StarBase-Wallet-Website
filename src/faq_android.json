@@ -306,39 +306,39 @@
   {
     "en": {
       "title": "Does StarBase have fees to send or receive?",
-      "markdown": "faq/android/en/does-StarBase-have-fees-to-send-or-receive.md"
+      "markdown": "faq/android/en/does-starbase-have-fees-to-send-or-receive.md"
     },
     "ru": {
       "title": "Берет ли StarBase плату за отправку или получение?",
-      "markdown": "faq/android/ru/does-StarBase-have-fees-to-send-or-receive.md"
+      "markdown": "faq/android/ru/does-starbase-have-fees-to-send-or-receive.md"
     },
     "de": {
       "title": "Hat StarBase Gebühren für das Versenden oder Empfangen?",
-      "markdown": "faq/android/de/does-StarBase-have-fees-to-send-or-receive.md"
+      "markdown": "faq/android/de/does-starbase-have-fees-to-send-or-receive.md"
     },
     "es": {
       "title": "¿StarBase tiene tarifas al enviar o recibir?",
-      "markdown": "faq/android/es/does-StarBase-have-fees-to-send-or-receive.md"
+      "markdown": "faq/android/es/does-starbase-have-fees-to-send-or-receive.md"
     },
     "fr": {
       "title": "Y a-t-il des frais pour envoyer ou recevoir avec StarBase?",
-      "markdown": "faq/android/fr/does-StarBase-have-fees-to-send-or-receive.md"
+      "markdown": "faq/android/fr/does-starbase-have-fees-to-send-or-receive.md"
     },
     "tr": {
       "title": "StarBase gönderme veya alma için ücret alıyor mu?",
-      "markdown": "faq/android/tr/does-StarBase-have-fees-to-send-or-receive.md"
+      "markdown": "faq/android/tr/does-starbase-have-fees-to-send-or-receive.md"
     },
     "zh": {
       "title": "Does StarBase have fees to send or receive?",
-      "markdown": "faq/android/zh/does-StarBase-have-fees-to-send-or-receive.md"
+      "markdown": "faq/android/zh/does-starbase-have-fees-to-send-or-receive.md"
     },
     "ko": {
       "title": "StarBase에는 전송 및 수령 수수료가 있나요?",
-      "markdown": "faq/android/ko/does-StarBase-have-fees-to-send-or-receive.md"
+      "markdown": "faq/android/ko/does-starbase-have-fees-to-send-or-receive.md"
     },
     "fa": {
       "title": "Does StarBase have fees to send or receive?",
-      "markdown": "faq/android/fa/does-StarBase-have-fees-to-send-or-receive.md"
+      "markdown": "faq/android/fa/does-starbase-have-fees-to-send-or-receive.md"
     }
   },
   {
@@ -496,39 +496,39 @@
   {
     "en": {
       "title": "How do I update StarBase?",
-      "markdown": "faq/android/en/how-do-i-update-StarBase.md"
+      "markdown": "faq/android/en/how-do-i-update-starbase.md"
     },
     "ru": {
       "title": "Как обновить StarBase?",
-      "markdown": "faq/android/ru/how-do-i-update-StarBase.md"
+      "markdown": "faq/android/ru/how-do-i-update-starbase.md"
     },
     "de": {
       "title": "Wie aktualisiere ich StarBase?",
-      "markdown": "faq/android/de/how-do-i-update-StarBase.md"
+      "markdown": "faq/android/de/how-do-i-update-starbase.md"
     },
     "es": {
       "title": " ¿Cómo actualizo StarBase?",
-      "markdown": "faq/android/es/how-do-i-update-StarBase.md"
+      "markdown": "faq/android/es/how-do-i-update-starbase.md"
     },
     "fr": {
       "title": "Comment puis-je actualiser StarBase?",
-      "markdown": "faq/android/fr/how-do-i-update-StarBase.md"
+      "markdown": "faq/android/fr/how-do-i-update-starbase.md"
     },
     "tr": {
       "title": "StarBase nasıl güncellenir?",
-      "markdown": "faq/android/tr/how-do-i-update-StarBase.md"
+      "markdown": "faq/android/tr/how-do-i-update-starbase.md"
     },
     "zh": {
       "title": "How do I update StarBase?",
-      "markdown": "faq/android/zh/how-do-i-update-StarBase.md"
+      "markdown": "faq/android/zh/how-do-i-update-starbase.md"
     },
     "ko": {
       "title": "StarBase을 업데이트하려면 어떻게 해야 하나요?",
-      "markdown": "faq/android/ko/how-do-i-update-StarBase.md"
+      "markdown": "faq/android/ko/how-do-i-update-starbase.md"
     },
     "fa": {
       "title": "How do I update StarBase?",
-      "markdown": "faq/android/fa/how-do-i-update-StarBase.md"
+      "markdown": "faq/android/fa/how-do-i-update-starbase.md"
     }
   }
 ]

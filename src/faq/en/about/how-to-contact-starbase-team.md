@@ -4,7 +4,7 @@ To reach out please use walletsupport@deploystarship.com or one of the following
 
 Reddit
 
-[https://www.reddit.com/r/STARBASEWallet/](https://www.reddit.com/r/STARBASEWallet/)
+[https://www.reddit.com/r/starbaseWallet/](https://www.reddit.com/r/starbaseWallet/)
 
 Twitter
   

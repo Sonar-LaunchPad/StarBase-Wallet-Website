@@ -20,7 +20,7 @@ function Join() {
         </div>
         <div className="Section-join">
           <div className="Join-item">
-            <a href="https://twitter.com/StarBasebyhs" target="_blank" rel="noopener noreferrer">
+            <a href="https://twitter.com/starbasebyhs" target="_blank" rel="noopener noreferrer">
               <img className="Join-image" src={twitter} alt="Twitter" />
             </a>
           </div>
@@ -30,12 +30,12 @@ function Join() {
             </a>
           </div>
           <div className="Join-item">
-            <a href="https://t.me/StarBase_announcements" target="_blank" rel="noopener noreferrer">
+            <a href="https://t.me/starbase_announcements" target="_blank" rel="noopener noreferrer">
               <img className="Join-image" src={telegram} alt="telegram" />
             </a>
           </div>
           <div className="Join-item">
-            <a href="https://www.reddit.com/r/StarBaseWallet/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.reddit.com/r/starbaseWallet/" target="_blank" rel="noopener noreferrer">
               <img className="Join-image" src={reddit} alt="reddit" />
             </a>
           </div>
