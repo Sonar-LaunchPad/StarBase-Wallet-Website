@@ -4,11 +4,11 @@ To reach out please use walletsupport@deploystarship.com or one of the following
 
 Reddit
 
-[https://www.reddit.com/r/starbaseWallet/](https://www.reddit.com/r/starbaseWallet/)
+[https://www.reddit.com/r/deploystarship/](https://www.reddit.com/r/deploystarship/)
 
 Twitter
   
-[https://twitter.com/starbasebyhs?lang=en](https://twitter.com/starbasebyhs?lang=en)
+[https://twitter.com/deploystarship](https://twitter.com/deploystarship)
 
 Github
 
@@ -16,7 +16,7 @@ Github
 
 Telegram (Channel)
 
-[https://t.me/starbase_announcements](https://t.me/starbase_announcements)
+[https://t.me/deploystarship](https://t.me/deploystarship)
 
 Do not trust anyone outside official channels. There are a number of fake groups and channels impersonating the StarBase team on Telegram and Twitter. Be aware!
 
