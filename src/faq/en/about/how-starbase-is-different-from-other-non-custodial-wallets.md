@@ -1,10 +1,5 @@
 # How StarBase is different?
 
-The StarBase wallet app has been work in progress since late 2017 and counts over 100K engineering hours!
-
-- https://github.com/deploystarship/starbase-wallet-ios
-- https://github.com/deploystarship/starbase-wallet-android
-
 It's the most sophisticated non-custodial wallet app to date that goes beyond non-custodial storage capabilities and takes a comprehensive approach towards privacy, decentralization and usability.
 
 - Built per security best practices.
@@ -15,7 +10,6 @@ It's the most sophisticated non-custodial wallet app to date that goes beyond no
 - A Decentralized Finance enabled wallet.
 - Open source wallet.
 - Natively built for iOS/Android.
-- Audited by external parties.
 
 When a user uses a non-custodial wallet like StarBase the control over funds and access to them doesn't depend on any entity. The user has unconditional and uninterruptible access to funds.
 
